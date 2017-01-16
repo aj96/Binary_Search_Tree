@@ -3,7 +3,7 @@ use lib::*;
 // Setting up a Binary Search Tree to Test
 pub fn test1() -> Tree<i32> {
 
-    // Setting up lowest level of tree noes
+    // Setting up lowest level of tree nodes
     let TreeNode_20 = Box::new(TreeNode {key:20,leftChild:None,rightChild:None});
     let TreeNode_35 = Box::new(TreeNode {key:35,leftChild:None,rightChild:None});
     let TreeNode_42 = Box::new(TreeNode {key:42,leftChild:None,rightChild:None});
