@@ -7,7 +7,7 @@ About binary search trees: https://en.wikipedia.org/wiki/Binary_search_tree
 
 This is to show off a rust library I made which contains two structs Tree<T> and TreeNode<T>, which are used to create a binary search tree. You can find and insert treenodes, as well as conduct a post-order traversal, an in-order traversal, and a pre-order traversal and obtain the respective vectors containing all the keys. 
 
-The main.rs file shows how to test the library. 
+The main.rs file shows how to test the library. All tests pass so far...
 
 Motivation
 ----------
