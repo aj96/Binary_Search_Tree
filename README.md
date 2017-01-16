@@ -25,7 +25,7 @@ $ cargo new Binary_Search_Tree --bin
 
 $ cd Binary_Search_Tree
 
-Download the main.rs and lib.rs of this repository into the src folder of Binary_Search_Tree. Then run the command:
+Put the main.rs and lib.rs of this repository into the src folder of Binary_Search_Tree. Then run the command:
 
 $ cargo run
 
